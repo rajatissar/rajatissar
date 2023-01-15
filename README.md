@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatissar" alt="rajatissar" /></a> </p>
 
-- 🔭 I’m currently working on **Taylor & Francis**
+- 🔭 I’m currently working on **McGraw Hill**
 
 - 🌱 I’m currently learning **Java**
 
